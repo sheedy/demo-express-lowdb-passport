@@ -14,7 +14,7 @@
     "lowdb": "^0.16.2",
     "passport": "^0.3.2",
     "passport-local": "^1.0.0",
-    "uuid": "^3.1.0"
+    "uuid": "^3.4.0"
   },
   "scripts": {
     "dev": "nodemon app.js"
